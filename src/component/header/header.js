@@ -8,8 +8,6 @@ const Header = () => {
             <p className="text-white text">Bangladesh men's national cricket team</p>
            <button type="button" class="btn btn-outline-warning">Get Started</button>
             </div>
-
-
         </div>
     );
 };
