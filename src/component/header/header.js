@@ -6,7 +6,7 @@ const Header = () => {
         <div className="header">
             <div className="header_content">
             <p className="text-white text">Bangladesh men's national cricket team</p>
-           <button type="button" class="btn btn-outline-warning">Get Started</button>
+           <button type="button" class="btn btn-outline-primary">Get Started</button>
             </div>
         </div>
     );
