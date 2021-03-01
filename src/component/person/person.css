@@ -1,0 +1,26 @@
+.single_person{
+    display: flex;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 11px 3px rgb(81 81 81 / 58%);
+    width: 80%;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.single_person:hover{
+    box-shadow: 0px 0px 20px 3px rgb(81 81 81 / 58%);
+}
+
+.flag_person,img{
+    height: 300px;
+}
+.person_info{
+    
+}
+.personal_info{
+    line-height: 8px;
+    margin-left: 20px;
+}
+.Person_mame{
+   margin-left:20px ;
+   
+}

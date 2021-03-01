@@ -1,0 +1,8 @@
+.personsPanel{
+    display: flex;
+}
+.personsContainer{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+}
